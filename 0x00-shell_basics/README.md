@@ -1,1 +1,2 @@
-readme
+shell basics command
+
